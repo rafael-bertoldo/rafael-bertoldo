@@ -16,3 +16,5 @@ Hi! I am Pedro Hasler, a Backend Developer. I build software projects and develo
 ![](https://github-profile-trophy.vercel.app/?username=rafael-bertoldo&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=rafael-bertoldo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Snake animation](https://github.com/rafael-bertoldo/rafael-bertoldo/blob/output/github-contribution-grid-snake.svg)
