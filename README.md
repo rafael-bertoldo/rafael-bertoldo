@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am Pedro Hasler, a Backend Developer. I build software projects and develop the best solutions using clean code. I have experience in a wide variety of framework environments, and I have faced many different challenges in my field of work. I am passionate about using data and technology to improve people’s lives.
+Hello everyone, my name is Rafael Bertoldo, I'm a fullstack developer with a strong focus on javascript, currently I work with an HTML, CSS and advanced javascript instructor.
 
 
 ## 🌐 Socials:
