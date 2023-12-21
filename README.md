@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello everyone, my name is Rafael Bertoldo, I'm a fullstack developer with a strong focus on javascript, currently I work with an HTML, CSS and advanced javascript instructor.
+Hello everyone, my name is Rafael Bertoldo, I'm a fullstack developer with a strong focus on javascript.
 
 
 ## 🌐 Socials:
